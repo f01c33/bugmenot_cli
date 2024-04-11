@@ -1,4 +1,4 @@
-module bugmenot
+module github.com/f01c33/bugmenot_cli
 
 go 1.22.2
 
