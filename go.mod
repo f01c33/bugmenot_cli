@@ -1,6 +1,6 @@
 module github.com/f01c33/bugmenot_cli
 
-go 1.23
+go 1.22.2
 
 require (
 	github.com/gocolly/colly/v2 v2.1.0
